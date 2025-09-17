@@ -12,7 +12,13 @@ This is a simple data analysis project using Python to visualize top 10 countrie
 
 The script prints the top 10 countries with most confirmed cases and displays a bar chart.
 
-## 🚀 How to Run
+
+
+## 📝 Notes
+- TODO: Add more visualizations in the next update
+- Dataset updated for 2025 statistics
+
+## 📌 How to Run
 
 1. Clone the repo  
 2. Install dependencies  
